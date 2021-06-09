@@ -15,8 +15,8 @@ source:
   # has the following properties: repository, branch.
   properties:
     branch: main
-    repository: https://github.com/sola-scriptura/ecsdemo-frontend.git
-    access_token_secret: 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
+    repository: https://github.com/sola-scriptura/ecsdemo-frontend
+    access_token_secret: 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
     # Optional: specify the name of an existing CodeStar Connections connection.
     # connection_name: a-connection
 
